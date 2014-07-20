@@ -1,14 +1,14 @@
-# clamav-cookbook-cookbook
+# clamav-cookbook
 
-TODO: Enter the cookbook description here.
+Installs and maintains ClamAV scan parameters
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
+Initially created with Debian 7 and Ubuntu 12.  
 
 ## Attributes
 
-`default.rb` - All of the clamd.conf scan parameters.
+`default.rb` - All of the clamd.conf parameters.
 
 ## Usage
 
@@ -35,4 +35,7 @@ Include `clamav-cookbook` in your node's `run_list`:
 
 ## License and Authors
 
+License:: None.  Do anything you wish with this.
+
 Author:: greg palmier(<gregpalmier@gmail.com>)
+

@@ -4,7 +4,7 @@
 #
 # Copyright (C) 2014 Greg Palmier
 # 
-# All rights reserved - Do Not Redistribute
+# All rights reserved - Redistribute
 #
 node['clamav']['packages'].each do |pkg|
   package pkg do
