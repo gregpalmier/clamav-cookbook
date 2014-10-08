@@ -35,7 +35,7 @@ Include `clamav-cookbook` in your node's `run_list`:
 
 ## License and Authors
 
-License:: None.  Do anything you wish with this.
+License:: See LICENSE
 
 Author:: greg palmier(<gregpalmier@gmail.com>)
 
