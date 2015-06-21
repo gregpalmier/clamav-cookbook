@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'rake'
 gem 'berkshelf'
 
 # Uncomment these lines if you want to live on the Edge:
@@ -16,3 +17,6 @@ gem 'berkshelf'
 
 gem 'test-kitchen'
 gem 'kitchen-vagrant'
+gem 'foodcritic'
+gem 'rubocop'
+gem 'rspec'
